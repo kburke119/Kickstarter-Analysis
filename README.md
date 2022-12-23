@@ -10,7 +10,6 @@ What are some other possible tables and/or graphs that we could create, and what
 - Since currency and country were provided, I would be interested in charting geo and its relationship to the outcomes. This could provide some insight onto geos with highest percentage of successful.
 Use your data to determine whether the mean or the median better summarizes the data.
 - The median better summarizes the data as we are observing many outliners on the box and whiskers plot that are skewing the data.
-![image](https://user-images.githubusercontent.com/10196762/209253738-ea9d1f59-6d30-4d7b-9249-38836fa9dcb6.png)
 Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 - There is more variability with the successful data set as there is a higher standard deviation of 1266. This makes sense as the mean is 851 backers with the maximum amount falling at 7295. This data set has more backers falling further from our mean. 
 
